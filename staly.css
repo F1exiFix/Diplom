@@ -1,0 +1,147 @@
+.bacround_infront{
+    margin: auto;
+
+}/* Внешние отступы */
+
+.fon_up{
+    margin: auto;
+    width: maxpx;
+    height: 90px;
+    border: #314f57;
+    background-color: #314f57;
+}/* Фон заголовка*/
+
+.image_fon{
+    width: 380px;
+    height: 80px;
+    position: absolute;
+}/* Фотография */
+
+.button_position{
+    position: absolute;
+    border: #314f57;
+    background-color: #314f57;
+}
+
+.button_journal{
+    
+    position: absolute;
+    width: 100px;
+    top: 15px;
+    left: 425px;
+    color: #ad8d5d;
+    padding: 2px;
+    background-color: #314f57;
+    border-left: 2px #ad8d5d solid;
+    border-right: 2px #ad8d5d solid;
+}
+
+.button_archive{
+    position: absolute;
+    top: 15px;
+    left: 540px;
+    color: #ad8d5d;
+    padding: 2px;
+    background-color: #314f57;
+    border-left: 2px #ad8d5d solid;
+    border-right: 2px #ad8d5d solid;
+}
+
+.button_author{
+    position: absolute;
+    top: 15px;
+    left: 610px;
+    color: #ad8d5d;
+    padding: 2px;
+    background-color: #314f57;
+    border-left: 2px #ad8d5d solid;
+    border-right: 2px #ad8d5d solid;
+}
+
+.button_ethics{
+    position: absolute;
+    top: 15px;
+    left: 705px;
+    color: #ad8d5d;
+    padding: 2px;
+    background-color: #314f57;
+    border-left: 2px #ad8d5d solid;
+    border-right: 2px #ad8d5d solid;
+}
+
+.button_search{
+    position: absolute;
+    top: 15px;
+    left: 775px;
+    color: #ad8d5d;
+    padding: 2px;
+    background-color: #314f57;
+    border-left: 2px #ad8d5d solid;
+    border-right: 2px #ad8d5d solid;
+}
+
+.button_contacts{
+    position: absolute;
+    top: 15px;
+    left: 845px;
+    color: #ad8d5d;
+    padding: 2px;
+    background-color: #314f57;
+    border-left: 2px #ad8d5d solid;
+    border-right: 2px #ad8d5d solid;
+}
+
+.button_retrospective{
+    position: absolute;
+    top: 145px;
+    left: 790px;
+    color: #ad8d5d;
+    padding: 2px;
+    border: 2px #ad8d5d solid;
+}
+
+.button_popular_articles{
+    position: absolute;
+    top: 180px;
+    left: 775px;
+    width: 135px;
+    color: #ad8d5d;
+    padding: 2px;
+    border: 2px #ad8d5d solid;
+}
+
+.button_author_journal{
+    position: absolute;
+    top: 215px;
+    left: 785px;
+    width: 115px;
+    color: #ad8d5d;
+    padding: 2px;
+    border: 2px #ad8d5d solid;
+}
+
+.text_1{
+    position: absolute;
+    top: 100px;
+    left: 5px;
+}
+
+.text_2{
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
+
+.text_3{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+
+.zagolov_2{
+    position: absolute;
+    background-color: #ad8d5d;
+    width: 2000px;
+    top: 450px;
+}
